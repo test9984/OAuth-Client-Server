@@ -1,0 +1,6 @@
+Step:
+1.authorization-server
+2.profile-service
+3.oauth-client-ui
+URL:http://localhost:8083/
+
